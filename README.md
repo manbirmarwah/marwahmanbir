@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-I am a 21 year old engineer from Delhi, India and I'm passionate about technology, communities, and everything in-between. I've played around a little with Android Development, Design, Arduino and Open Source. I love to learn and always look for ways to contribute in any and every possible way. 
+I am a 21 year old engineer from Delhi, India and I'm passionate about technology, communities, and everything in-between. I've played around a little with Android Development, Design, Arduino and Open Source. I love to learn new things and always look for ways to contribute in any and every possible way. 
 
 ### To know a little more about me...
 - 🐦 Twitter: [@manbirmarwah](https://twitter.com/manbirmarwah)
