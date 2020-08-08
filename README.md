@@ -1,5 +1,5 @@
 <p align="auto">
-<img src="https://hackernoon.com/images/f2px36fy.gif" width=60%>
+<img src="https://cdn.dribbble.com/users/1056629/screenshots/3947176/07_-_hello_world_gif_square_1.gif" width=60%>
 </p>
 
 <!--
@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="center">
-<img src="https://i.pinimg.com/originals/ec/92/f7/ec92f7e3872fa5a7da94085b1807b832.gif">
-</p>
-https://camo.githubusercontent.com/3e2ea701e0014e69cd14ec62c14f569a3ff9bff9/68747470733a2f2f63646e2e6c6f776769662e636f6d2f66756c6c2f366561653766643762636365326335612d736e6170652d6769662d6f6e2d74756d626c722e676966
 -->
 
 👋 I am a 21 year old engineer from Delhi, India and I'm passionate about empowering people through technology to achieve more, while having experience in building and scaling developer communities. I've played around a little with Android Development, Design, Arduino and Open Source. I love to learn new things and always look for ways to contribute in any possible way. 
