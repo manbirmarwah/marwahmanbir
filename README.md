@@ -1,5 +1,5 @@
 <p align="auto">
-<img src="https://cdn.dribbble.com/users/1056629/screenshots/3947176/07_-_hello_world_gif_square_1.gif" width=60%>
+<img src="https://hackernoon.com/images/f2px36fy.gif" width=70%>
 </p>
 
 <!--
