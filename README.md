@@ -1,5 +1,5 @@
 <p align="auto">
-<img src="https://hackernoon.com/images/f2px36fy.gif" width=70%>
+<img src="https://media.giphy.com/media/vpURqIvpuDguQ/giphy.gif" width=50%>
 </p>
 
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 -->
 
-👋 I am a 21 year old engineer from Delhi, India and I'm passionate about empowering people through technology to achieve more, while having experience in building and scaling developer communities. I've played around a little with Android Development, Design, Arduino and Open Source. I love to learn new things and always look for ways to contribute in any possible way. 
+👋 I am a 21 year old engineer from India and I'm passionate about empowering people through technology to achieve more, while having experience in building and scaling developer communities. I've played around a little with Android Development, Design, Arduino and Open Source. I love to learn new things and always look for ways to contribute in any possible way. 
 
 ### To know a little more about me...
 - 🐦 Twitter: [@manbirmarwah](https://twitter.com/manbirmarwah)
