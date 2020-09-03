@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hello World!
 
-I'm a 21 year old engineer from India and I'm passionate about empowering people through technology to achieve more, while having experience in building and scaling developer communities. I've played around a little with Android Development, Design, Arduino and Open Source. I love to learn new things and always look for ways to contribute in any possible way. 
+I'm a 22 year old engineer from India and I'm passionate about empowering people through technology to achieve more, while having experience in building and scaling developer communities. I've played around a little with Android Development, Design, Arduino and Open Source. I love to learn new things and always look for ways to contribute in any possible way. 
 
 ### To know a little more about me...
 - 🐦 Twitter: [@manbirmarwah](https://twitter.com/manbirmarwah)
