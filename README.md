@@ -1,5 +1,5 @@
 <p align="auto">
-<img src="https://media.giphy.com/media/vpURqIvpuDguQ/giphy.gif" width=45%>
+<img src="https://media.giphy.com/media/vpURqIvpuDguQ/giphy.gif" width=50%>
 </p>
 
 Say you somehow figured out where's the "any" key!
@@ -29,6 +29,5 @@ I'm a 22 year old engineer from India and I'm passionate about empowering people
 - 👥 LinkedIn: [/manbirmarwah](https://linkedin.com/in/manbirmarwah)
 - 👨‍💻 Blogs/Writings: [DEV Profile](https://dev.to/manbir)
 - 🚩 GitHub Campus Expert [Profile](https://githubcampus.expert/marwahmanbir)
-- 🥑 Looking for: Opportunities in DevRel
 - 😄 Pronouns: He/him/his
 - 🕵️‍♂️ More ways to connect: [plu.us/manbir](https://plu.us/manbir)
