@@ -1,5 +1,5 @@
 <p align="auto">
-<img src="https://media.giphy.com/media/vpURqIvpuDguQ/giphy.gif" width=55%>
+<img src="https://media.giphy.com/media/vpURqIvpuDguQ/giphy.gif" width=45%>
 </p>
 
 Say you somehow figured out where's the "any" key!
