@@ -1,8 +1,7 @@
+***"What do you mean my code has 5000 warnings? It still compiles!"***
 <p align="auto">
-<img src="https://media.giphy.com/media/vpURqIvpuDguQ/giphy.gif" width=50%>
+<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width=50%>
 </p>
-
-Say you somehow figured out where's the "any" key...
 
 <!--
 **marwahmanbir/marwahmanbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
