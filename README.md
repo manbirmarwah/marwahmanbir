@@ -1,5 +1,5 @@
-<p align="center">
-  <b>What do you mean my code has 500 warnings? It still compiles!</b><br>
+<b>What do you mean my code has 500 warnings? It still compiles!</b>
+<p align="auto">
 <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width=50%>
 </p>
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I'm a 22 year old Developer Advocate from India and I'm passionate about empowering people through technology to achieve more, while having experience in building and scaling developer communities. I've played around a little with Android Development, Design, Arduino and Open Source. I love to learn new things and always look for ways to contribute in any possible way. 
 
 ### A little more about me and my journey...
-🌐 [Website](https://manbir.btc.us) <br>
+👨🏻‍💻 [Website](https://manbir.btc.us) <br>
 🐦 [Twitter](https://twitter.com/manbirmarwah) <br>
 👥 [LinkedIn](https://linkedin.com/in/manbirmarwah) <br>
 ✍️ [Blogs/Writings](https://dev.to/manbir) <br>
