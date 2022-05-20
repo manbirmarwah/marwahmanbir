@@ -1,6 +1,6 @@
 <b>What do you mean my code has 500 warnings? It still compiles!</b>
 <p align="auto">
-<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width=50%>
+<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width=80%>
 </p>
 
 <!--
@@ -21,13 +21,11 @@ Here are some ideas to get you started:
 
 ## 👋 Hello World!
 
-I'm a 22 year old Developer Advocate from India and I'm passionate about empowering people through technology to achieve more, while having experience in building and scaling developer communities. I've played around a little with Android Development, Design, Arduino and Open Source. I love to learn new things and always look for ways to contribute in any possible way. 
+I'm an engineer from India who's passionate about empowering people through technology to achieve more. Currently, I'm working as a Community Manager at [ConsenSys](https://consensys.net/) for MetaMask, the world's leading Ethereum software wallet and a gateway to the decentralised web. I've dabbled around  with Android Development, Design, Arduino and Open Source back when I was an undergrad, and I strongly believe that technology holds the power to advance how we organize and lead the economy, and democratizing the internet would be a foundational step towards that.
 
-### A little more about me and my journey...
-👨🏻‍💻 [Website](https://manbir.btc.us) <br>
-🐦 [Twitter](https://twitter.com/manbirmarwah) <br>
-👥 [LinkedIn](https://linkedin.com/in/manbirmarwah) <br>
-✍️ [Blogs/Writings](https://dev.to/manbir) <br>
-🚩 [GitHub Campus Expert Profile](https://githubcampus.expert/marwahmanbir) <br>
-😄 Pronouns: He/him/his <br>
-🕵️‍♂️ More ways to connect: [plu.us/manbir](https://plu.us/manbir)
+### Let's connect!
+- [Website](https://manbir.btc.us) <br>
+- [Twitter](https://twitter.com/manbirmarwah) <br>
+- [LinkedIn](https://linkedin.com/in/manbirmarwah) <br>
+- [Blogs](https://dev.to/manbir) <br>
+- [GitHub Campus Expert Profile](https://githubcampus.expert/marwahmanbir) <br>
