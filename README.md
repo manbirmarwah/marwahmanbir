@@ -25,7 +25,7 @@ I'm an engineer from India who's passionate about empowering people through tech
 
 ### Let's connect!
 - [Website](https://manbir.btc.us) <br>
-- [Twitter](https://twitter.com/manbirmarwah) <br>
 - [LinkedIn](https://linkedin.com/in/manbirmarwah) <br>
+- [Twitter](https://twitter.com/manbirmarwah) <br>
 - [Blogs](https://dev.to/manbir) <br>
 - [GitHub Campus Expert Profile](https://githubcampus.expert/marwahmanbir) <br>
