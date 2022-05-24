@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hello World!
 
-I'm an engineer from India who's passionate about empowering people through technology to achieve more. Currently, I'm working as a Community Manager at ConsenSys Software Inc. for MetaMask, the world's leading Ethereum software wallet and a gateway to the decentralised web. I've dabbled around  with Android Development, Design, Arduino and Open Source back when I was an undergrad, and I strongly believe that technology holds the power to advance how we organize and lead the economy, and democratizing the internet would be a foundational step towards that.
+I'm an engineer from India who's passionate about empowering people through technology to achieve more. Currently, I'm working as a Community Manager at ConsenSys for MetaMask, the world's leading Ethereum software wallet and a gateway to the decentralised web. I've dabbled around  with Android Development, Design, Arduino and Open Source back when I was an undergrad, and I strongly believe that technology holds the power to advance how we organize and lead the economy, and democratizing the internet would be a foundational step towards that.
 
 ### Let's connect!
 - [Website](https://manbir.btc.us) <br>
